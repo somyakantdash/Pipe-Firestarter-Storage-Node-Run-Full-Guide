@@ -68,7 +68,7 @@ nano ~/.pipe-cli.json
 
 9️⃣ Put the Refer Code
 ```
-pipe referral apply SOMYAKANT
+pipe referral apply SOMYAKAN-TQDP
 ```
 
 1️⃣0️⃣ Generate Your Referral
