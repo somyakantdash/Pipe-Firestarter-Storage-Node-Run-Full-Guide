@@ -1,4 +1,4 @@
-# Firestarter Storage Node Run Full Guide (PC and VPS for Both)
+# Firestarter Storage Node Run Full Guide (PC Only)
 
 ### Offical Docs by Pipe Network - https://docs.pipe.network/pipe-firestarter-storage
 
