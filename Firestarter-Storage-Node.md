@@ -97,21 +97,22 @@ pipe  swap-sol-for-pipe <AMOUNT_SOL>
 1️⃣3️⃣ Upload a File
 
 ```
-pipe upload-file <FILE_PATH> <FILE_NAME>
+pipe upload-file ~/<FILE_PATH> <FILE_NAME>
 ```
 
 * Replace <FILE_PATH> & <FILE_NAME> with their actual name & path
 * Dont upload any `confidential` file (Wallet keys & personal docs)
 * You can upload any videos or large file too
 
-* For home path, use:
-```
-~/Name_of_your_file
-```
-
 ### How t Get File Path in ur Local PC
+
+To Enter Ur WSL or Ubuntu Folder
 ```
 explorer.exe .
+```
+Check ur File Name & Path
+```
+ls -a
 ```
 
 1️⃣4️⃣ Create Public Link
