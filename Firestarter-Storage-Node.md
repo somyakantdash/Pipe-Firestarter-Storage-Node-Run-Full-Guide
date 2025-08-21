@@ -6,9 +6,7 @@
 
 ## 🧰 Prerequisites
 	
-### Need A Solana Wallet
-
-Solana Devnet Faucet: https://faucet.solana.com/
+### Nothing
 
 ----
 
@@ -113,7 +111,8 @@ pipe upload-file <FILE_PATH> <FILE_NAME>
 
 ### How t Get File Path in ur Local PC
 ```
-
+explorer.exe .
+```
 
 1️⃣4️⃣ Create Public Link
 ```
