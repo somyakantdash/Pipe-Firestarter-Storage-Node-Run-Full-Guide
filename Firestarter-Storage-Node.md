@@ -147,3 +147,14 @@ pipe upload-file ~/<FILE_PATH> <FILE_NAME>
 ```
 pipe create-public-link <FILE_NAME>
 ```
+
+## Delete Pipe Firestarter Storage Node
+```
+cargo uninstall pipe
+```
+```
+rm -rf ~/pipe
+rm -f ~/.pipe-cli.json
+rm -rf ~/.config/pipe
+rm -rf ~/.local/share/pipe
+```
