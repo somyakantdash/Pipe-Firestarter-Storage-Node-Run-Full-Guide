@@ -127,4 +127,23 @@ pipe create-public-link <FILE_NAME>
 pipe token-usage
 ```
 
-U can get to know about the usage of the pipe devnet tokens, after uploading and Downloading Files:
+U can get to know about the usage of the pipe devnet tokens, after uploading and Downloading Files
+
+## 🔶For Next Day Run This Command
+
+#1 Open WSL and Put this Command 
+```
+cd pipe
+```
+- Follow 1️⃣2️⃣ Number Point
+```
+pipe  swap-sol-for-pipe <AMOUNT_SOL>
+```
+- Follow 1️⃣3️⃣ Number Point
+```
+pipe upload-file ~/<FILE_PATH> <FILE_NAME>
+```
+- Follow 1️⃣4️⃣ Number Point
+```
+pipe create-public-link <FILE_NAME>
+```
